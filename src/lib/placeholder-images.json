@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "dashboard-ad-generator",
+      "description": "A computer screen showing ad analytics.",
+      "imageUrl": "https://images.unsplash.com/photo-1588601515608-6a6814976b50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb21wdXRlciUyMHNjcmVlbnxlbnwwfHx8fDE3Njk2MTEyNTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "computer screen"
+    },
+    {
+      "id": "dashboard-infographic",
+      "description": "A colorful infographic design.",
+      "imageUrl": "https://images.unsplash.com/photo-1650884223621-8703ce005234?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxpbmZvZ3JhcGhpYyUyMGRlc2lnbnxlbnwwfHx8fDE3Njk1NDczMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "infographic design"
+    },
+    {
+      "id": "dashboard-logo",
+      "description": "A sketch of a new logo design.",
+      "imageUrl": "https://images.unsplash.com/photo-1611241893603-3c359704e0ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsb2dvJTIwZGVzaWdufGVufDB8fHx8MTc2OTU3MTI2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo design"
+    },
+    {
+      "id": "dashboard-chart",
+      "description": "A digital bar chart with growing trends.",
+      "imageUrl": "https://images.unsplash.com/photo-1577563682708-4f022ec774fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxiYXIlMjBjaGFydHxlbnwwfHx8fDE3Njk2MTIyOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bar chart"
+    },
+    {
+      "id": "dashboard-whitepaper",
+      "description": "A stack of professional documents or a whitepaper cover.",
+      "imageUrl": "https://images.unsplash.com/photo-1651760680066-db9d32bd0357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkb2N1bWVudCUyMHBhcGVyfGVufDB8fHx8MTc2OTU5MjYxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "document paper"
+    },
+    {
+      "id": "dashboard-social-media",
+      "description": "A phone showing a social media feed.",
+      "imageUrl": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYXxlbnwwfHx8fDE3Njk2OTI0OTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "social media"
+    },
+    {
+      "id": "dashboard-ebook",
+      "description": "A person reading an e-book on a tablet.",
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxib29rfGVufDB8fHx8MTc3MDA2MzU4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "book reading"
+    }
+  ]
+}
